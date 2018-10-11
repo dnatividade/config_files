@@ -10,5 +10,5 @@ New standard: Predictable Network Interface Names (v197)
 `$ sudo grub-mkconfig -o /boot/grub/grub.cfg`
 
 ##### Source
-[VivaOLinux] (https://www.vivaolinux.com.br/dica/Como-mudar-o-nome-da-interface-de-rede-padrao-do-Ubuntu)
+[VivaOLinux](https://www.vivaolinux.com.br/dica/Como-mudar-o-nome-da-interface-de-rede-padrao-do-Ubuntu)
 
