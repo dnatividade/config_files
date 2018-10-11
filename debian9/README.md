@@ -1,3 +1,5 @@
+<b>Particularity of network in Debian 9:</b>
+
 The old standard "ethX", will no longer be used.
 New standard: Predictable Network Interface Names (v197)
 
