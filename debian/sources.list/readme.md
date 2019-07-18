@@ -49,10 +49,3 @@ deb http://archive.debian.org/debian-archive/debian/ lenny main contrib non-free
 deb http://archive.debian.org/debian-security/ lenny/updates main contrib non-free
 ```
 ---
-
-## Debian 4 (Etch)
-```
-
-```
----
-
