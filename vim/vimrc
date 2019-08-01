@@ -14,6 +14,8 @@ runtime! debian.vim
 " options, so any other options should be set AFTER setting 'compatible'.
 set compatible
 
+set clipboard=unnamedplus
+
 " Vim5 and later versions support syntax highlighting. Uncommenting the next
 " line enables syntax highlighting by default.
 if has("syntax")
